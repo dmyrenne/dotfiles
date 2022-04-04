@@ -3,6 +3,8 @@ tap "homebrew/cask-drivers"
 tap "homebrew/cask-fonts"
 tap "homebrew/cask-versions"
 
+cask "hammerspoon"
+cask "kaleidoscope2"
 cask "1password"
 cask "iterm2"
 cask "discord"
