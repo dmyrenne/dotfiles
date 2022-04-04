@@ -1,9 +1,9 @@
 [user]
-	name = Lars Kappert
-	email = lars@webpro.nl
+	name = Daniel Myrenne
+	email = daniel.myrenne@gmail.com
 
 [github]
-	user = webpro
+	user = dmyrenne
 
 [core]
 	excludesfile = ~/.config/git/ignore
