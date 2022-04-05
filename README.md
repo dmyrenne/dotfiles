@@ -61,7 +61,7 @@ make
 ```
 
 The installation process in the Makefile is tested on every push and every week in this
-[GitHub Action](https://github.com/webpro/dotfiles/actions).
+[GitHub Action](https://github.com/dmyrenne/dotfiles/actions).
 
 ## Post-Installation
 
